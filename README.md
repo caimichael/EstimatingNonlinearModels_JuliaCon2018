@@ -1,4 +1,4 @@
-# Estimating Non-Linear Macroeconomic Models at the New York Fed
+# Estimating Non-Linear Macroeconomic Models in Julia
 
 To convert the Jupyter notebook to slides and serve in your browser:
 
