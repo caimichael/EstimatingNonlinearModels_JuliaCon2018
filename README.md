@@ -1,5 +1,9 @@
 # Estimating Non-Linear Macroeconomic Models in Julia
 
+## Link to the video
+The video recording of the talk can be found at this link [here](https://www.youtube.com/watch?v=dFyr8U-SY2M).
+
+## Loading the slides
 To convert the Jupyter notebook to slides and serve in your browser:
 
 1. [Install Jupyter](http://jupyter.org/install.html) if necessary
